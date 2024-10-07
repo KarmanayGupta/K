@@ -341,7 +341,7 @@ export const projects = [
     description:
       "A portfolio website that demonstrates my education, experience, projects and skills.",
     image:
-      "https://github.com/rishavchanda/DecisionHub/raw/master/assets/testRule.jpg",
+      "https://media.licdn.com/dms/image/v2/D4D03AQHbGtqE-XV6Rg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1693377658221?e=1733961600&v=beta&t=Ol9ucbck5YNwXj-bT521DsQLvZhhMHg06PvLUqHpqCI",
     tags: [
       "HTML",
       "CSS",
@@ -350,8 +350,8 @@ export const projects = [
       "Tailwind",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/DecisionHub",
-    webapp: "https://decisionhub.netlify.app/",
+    github: "https://github.com/KarmanayGupta/K",
+    webapp: "https://karmanaygupta.github.io/K/",
   },
   // {
   //   id: 9,
