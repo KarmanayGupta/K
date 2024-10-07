@@ -39,9 +39,10 @@ const Wrapper = styled.div`
 
 function App() {
   const [openModal, setOpenModal] = useState({ state: false, project: null });
+
   return (
     <ThemeProvider theme={darkTheme}>
-      <BrowserRouter>
+      <BrowserRouter basename="/K"> {/* Add basename here */}
         <Navbar />
         <Body>
           <StarCanvas />
